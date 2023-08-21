@@ -1,2 +1,2 @@
 welcome to devops
-welcome to kani
+welco to kani
